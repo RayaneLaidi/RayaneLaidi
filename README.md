@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Hello Animation" width="600"/>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&pause=1000&color=FFFFFF&width=800&height=150&lines=Hello+World+!!+I'm+Rayane+Laidi+;welcome+to+my+Gituhb+profile+)](https://git.io/typing-svg)
 <!--<h1 align="center">
   👋 Hello, I'm Rayane 
 </h1>-->
 
-<p align="center">
+<p align="center-left">
   <i>🚀 Back-end Developer • CS Student </i>
 </p>
 
@@ -71,7 +68,7 @@
 ## 🌍 Connect with Me
 
 [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laidi.rayane.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/rayane-laidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-laidi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
 
 ---
