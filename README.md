@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&pause=1000&color=FFFFFF&width=800&height=150&lines=Hello+World+!!+I'm+Rayane+Laidi+;welcome+to+my+Gituhb+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&pause=1000&color=FFFFFF&width=800&height=150&lines=Hello+World+!!+I'm+Rayane+Laidi+;welcome+to+my+Github+profile+)](https://git.io/typing-svg)
 <!--<h1 align="center">
   👋 Hello, I'm Rayane 
 </h1>-->
