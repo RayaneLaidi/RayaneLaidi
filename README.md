@@ -72,7 +72,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&pause=1000&color=FFFFFF&width=800&height=150&lines=✨+Thanks+for+visiting+my+profile+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&pause=1000&color=FFFFFF&width=800&height=150&lines=✨+Thanks+for+your+visit+✨+)](https://git.io/typing-svg)
 <!--<h3 align="center">✨ Thanks for visiting my profile ✨</h3>-->
 
 <!-- Animation simple pour le H1
