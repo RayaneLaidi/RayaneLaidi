@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>🚀 Developer • CS Student • Future Tech Entrepreneur</i>
+  <i>🚀 Back-end Developer • CS Student </i>
 </p>
 
 ---
