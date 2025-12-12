@@ -46,25 +46,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Pokémon Web App
-> Full web interface using the PokéAPI to display Pokémon cards dynamically.  
-**Tech:** HTML, CSS, JS, API  
-🔗 Repo: *à ajouter*
-
-### 🔹 Raspberry Pi Pico Button Monitor
-> Flask server + Raspberry Pi Pico communicating with a web dashboard.  
-**Tech:** Python, Flask, HTML/JS  
-🔗 Repo: *à ajouter*
-
-### 🔹 Digitalization Agency Website
-> Modern landing page for a digital agency helping startups go digital.  
-**Tech:** HTML, CSS, JS, UI/UX  
-🔗 Repo: *à ajouter*
-
----
-
 ## 🌍 Connect with Me
 
 [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laidi.rayane.pro@gmail.com)
